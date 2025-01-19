@@ -1,8 +1,11 @@
 # [**EVENT STORMING**](https://miro.com/welcomeonboard/Tmh2VEd2eUI5UktXUzBVTE8wbG5rOHVUMFgxWWVtdnMzT1c0bzVrMTZnNkhjRTdZQTJlazRLVm5OUHpOT1RBc3c0aFMrS01ja0lkUjdyNzUwZjVyU3FiZUNZYmlNSlJacGVKWkRCUGZLSzZGa1FnU2k1ekpYbVl4NjhSS3hPVXkhZQ==?share_link_id=24647857868) 
 
+
 Так как ранее проходила курс по асинхронной акрхитектуре и после него пару раз использовала ES в работе, поэтому начала с ES. Доступен в миро (ссылка = заголовок), "масштаб бедствия" представлен на рисунке, но из-за количества элементов он все равно не читаем))
 
 ![рисунок 1 - event storming](es.png)
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNtDepfs=/?moveToViewport=-5317,4586,8987,4461&embedId=313093771684" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 # ДИАГРАММА
 
