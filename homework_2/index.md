@@ -149,7 +149,7 @@
 
 ![bounded-context](./attachments/bounded-context.png)
 
-Версия после разбора: 
+Версия после разбора. Цветные квадраты - это поддомены, а белые - это контексты. В прошлый раз было перепутано.
 
 ![bounded-context](./attachments/bounded-context-new.png)
 
